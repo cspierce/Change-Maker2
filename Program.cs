@@ -13,9 +13,9 @@ namespace Change_Maker2
             //this will be fun
             Console.ReadKey();
         }
-        static void ChangeMaker(float amount)
+        static void ChangeMaker(double amount)
         {
-
+            
         }
     }
 }
